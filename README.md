@@ -1,7 +1,7 @@
 ### About cmd.coffee
-We provide a simple REST API to order high-end, micro roasted coffee. It is in the early stages -- aka -- the API changes everyday and we're bound to screw something up. Thankfully the roasting side of the business has been around since 2010, so even though the API is a little rough around the edges, the coffee quality is consistently exceptional. 
+We provide a simple REST API to order high-end, micro roasted coffee. It is in the early stages so expect the API to change and forgive us for any inconvenience. Thankfully the roasting side of the business has been around since 2010, so even though the API is a little rough around the edges, the coffee quality is consistently exceptional. 
 
-We also have some CLIs in the works. Technically we've only started coding one. Its in crystal. We think its pretty cool. We'll post it as an open-source project when it's less embarassing.
+We also have some CLIs in the works. Technically we've only started coding one. It's in crystal. We think its pretty cool. We'll post it as an open-source project when it's less embarrassing.
 
 [In the meantime, check out the current API](https://api.cmd.coffee/swagger/index.html)
 
@@ -26,10 +26,10 @@ Yup. Do that. See what pops out. We have some standard blends which are always a
 You'll need your Access-Key for this. Send us the product-key and an address. We'll respond with an order-key and payment options.
 
 #### Pay via Cryptocurrency
-It is your responsbility to send the funds before the order expires. In case you are unable to send the money, the order will be canceled.
+It is your responsibility to send the funds before the order expires. In case you are unable to send the money, the order will be canceled.
 
 #### Wait
-Once we receive payment, we start working on getting the coffee to you. If what you ordered is freshly roasted and ready to go, we'll send it out immediately. In case we need to roast it, we'll do that, then send it out the next business day.
+Once we receive payment, we work on getting the coffee to you. If what you ordered is freshly roasted and ready to go, we'll send it out immediately. In case we need to roast it, we'll do that, then send it out the next business day.
 
 #### Drink and enjoy
 This is the fun part. You'll need a scale, a burr grinder and brewing device of some sort.
@@ -42,7 +42,7 @@ The shelf life of coffee is about 3 weeks. A single person drinking about 2 cups
 > While we frequency have beans that are organically grown, our roasting process and facilities are not organically certified. 
 
 2. Do you have a dark roast?
-> In order to preserve the original tasting notes of each bean, we roast light-medium. However, we have beans that have a rich mouth feel and other qualities that seem "dark." If you want a "dark roast" try out the "Meeting Day" blend.
+> In order to preserve the original tasting notes of each bean, we roast light-medium. However, we have beans that have a rich mouthfeel and other qualities that seem "dark." If you want a "dark roast" try out the "Meeting Day" blend.
 
 3. How do you calculate sales tax and shipping?
 > Shipping is included in the price you see in the product listing. There is no sales tax on coffee beans.
