@@ -39,7 +39,7 @@ The shelf life of coffee is about 3 weeks. A single person drinking about 2 cups
 
 ### FAQs
 1. Is your coffee organic?
-> While we frequency have beans that are organically grown, our roasting process and facilities are not organically certified. 
+> While we frequently have beans that are organically grown, our roasting process and facilities are not organically certified. 
 
 2. Do you have a dark roast?
 > In order to preserve the original tasting notes of each bean, we roast light-medium. However, we have beans that have a rich mouthfeel and other qualities that seem "dark." If you want a "dark roast" try out the "Meeting Day" blend.
