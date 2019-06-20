@@ -1,5 +1,5 @@
 ### About cmd.coffee
-We provide a simple REST API to order high-end, micro roasted coffee. It is in the early stages so expect the API to change and forgive us for any inconvenience. Thankfully the roasting side of the business has been around since 2010, so even though the API is a little rough around the edges, the coffee quality is consistently exceptional. 
+We provide a simple REST API to order high-end, micro roasted coffee. It is in the early stages so expect the API to change and please forgive us for any inconvenience. Thankfully the roasting side of the business has been around since 2010, so even though the API is a little rough around the edges, the coffee quality is consistently exceptional. 
 
 We also have some CLIs in the works. Technically we've only started coding one. It's in crystal. We think its pretty cool. We'll post it as an open-source project when it's less embarrassing.
 
@@ -15,12 +15,12 @@ We also have some CLIs in the works. Technically we've only started coding one. 
 7. Repeat 2-6
 
 #### Join
-Before ordering, you need an access-key. You get this by joining. To join, you need an invite-code. Right now we are inviting people privately. This will change soon enough and your time will come too!
+Before ordering, you need an access-key. You get this by joining. To join, you need an invite-code. Right now we are inviting people privately.
 
 Keep your access-key safe and store it someplace reliable like a post-it on your monitor. Better yet, store it using a secure service like LastPass or 1Password. It cannot be reset and we can't get it. You need it to access your order history and check the status of any outstanding orders.
 
 #### View Products
-Yup. Do that. See what pops out. We have some standard blends which are always available, like "meeting day" and "the stand up." We think the names speak for themselves, but you can always read the description and tasting-notes to get more info. We also have single-origin options, which are rotated throughout the year. With an ever changing menu, its important to keep an open mind to life with many flavor profiles.
+Yup. Do that. See what pops out. We have some standard blends which are always available, like "meeting day" and "the stand up." We think the names speak for themselves, but you can always read the description and tasting-notes to get more info. We also have single-origin options, which are rotated regularly. With an ever changing menu, its important to keep an open mind to life with many flavor profiles.
 
 #### Request Order
 You'll need your Access-Key for this. Send us the product-key and an address. We'll respond with an order-key and payment options.
