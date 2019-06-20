@@ -67,3 +67,9 @@ The shelf life of coffee is about 3 weeks. A single person drinking about 2 cups
 
 10. Do I have to use cryptocurrency?
 > Yes.
+
+11. What is your return policy?
+>All sales are final. If you need support with an order please contact us at support@cmd.coffee.
+
+12. I need to cancel my order, what can I do?
+>We do not currently support canceling an order once payment has been received. Figuring this out is on our todo list!
