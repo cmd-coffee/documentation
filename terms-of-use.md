@@ -9,7 +9,7 @@ The following terms govern your access to and use of the Services, including any
 We may revise and update these Terms from time to time. All changes are effective immediately when we post them. Your continued use of our Services following the posting of revised Terms means that you accept and agree to the changes.
 
 #### Privacy
-Please review our [Privacy Policy](../privacy-policy.md) to understand our privacy practices. All information you provide to us via the Services is subject to our Privacy Policy.
+Please review our [Privacy Policy](privacy-policy.md) to understand our privacy practices. All information you provide to us via the Services is subject to our Privacy Policy.
 
 #### Trademarks
 Cmd.Coffee® is registered trademark of Cmd.Coffee. You must not use this trademark without our prior written permission. All other names, logos, product and service names, designs and slogans that may appear on the Services are the trademarks of their respective owners.
@@ -62,7 +62,7 @@ Cmd.Coffee accepts payment via Cryptocurrency. When you place an order, you will
 When you send payment to an order address you represent that:
 1. The entirety of the order is accurate, including but not limited to, shipping address and product-keys.
 2. You’re solely responsible for sending the correct payment amount to the correct payment address.
-4. You agree to our [Return Policy]("../return-policy.md").
+4. You agree to our [Return Policy](return-policy.md).
 
 #### Changes to the Services
 We may update the content on our Services from time to time, but such content is not necessarily complete or up to date. Any of the material on our Services may be out of date at any given time, and we are under no obligation to update such material.
