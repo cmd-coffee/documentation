@@ -9,7 +9,7 @@ The following terms govern your access to and use of the Services, including any
 We may revise and update these Terms from time to time. All changes are effective immediately when we post them. Your continued use of our Services following the posting of revised Terms means that you accept and agree to the changes.
 
 #### Privacy
-Please review our [Privacy Policy]("https://github.com/cmd-coffee/documentation/blob/master/privacy-policy.md") to understand our privacy practices. All information you provide to us via the Services is subject to our Privacy Policy.
+Please review our [Privacy Policy](../privacy-policy.md) to understand our privacy practices. All information you provide to us via the Services is subject to our Privacy Policy.
 
 #### Trademarks
 Cmd.Coffee® is registered trademark of Cmd.Coffee. You must not use this trademark without our prior written permission. All other names, logos, product and service names, designs and slogans that may appear on the Services are the trademarks of their respective owners.
