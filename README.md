@@ -3,7 +3,7 @@ We provide a simple REST API to order high-end, micro roasted coffee. It is in t
 
 We also have some CLIs in the works. Technically we've only started coding one. It's in crystal. We think its pretty cool. We'll post it as an open-source project when it's less embarrassing.
 
-[In the meantime, check out the current API](https://api.cmd.coffee/swagger/index.html)
+[In the meantime, check out the current API](https://api.cmd.coffee/)
 
 ### Workflow
 1. Join
