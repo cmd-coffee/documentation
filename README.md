@@ -3,7 +3,9 @@ We provide a simple REST API to order high-end, micro roasted coffee. It is in t
 
 We also have some CLIs in the works. The first one we've released is in crystal. Stay tuned for more
 
-[In the meantime, check out the current API](https://api.cmd.coffee/)
+In the meantime:
+
+[Check out the current API](https://api.cmd.coffee/)
 
 [Order coffee with the crystal app](https://github.com/cmd-coffee/cmd-coffee-crystal)
 
