@@ -1,4 +1,8 @@
-### FAQs Ordering
+## Cmd.Coffee FAQs
+
+#### Last Updated: 6/23/2019
+
+### Ordering
 
 1. How do you calculate sales tax and shipping?
 > Shipping is included in the price you see in the product listing. There is no sales tax on coffee beans.
@@ -26,7 +30,7 @@
 
 > If you haven't sent any payment, it will automatically be canceled.
 
-### FAQs Coffee
+### Our Coffee
 1. Do you have a dark roast?
 > In order to preserve the original tasting notes of each bean, we roast light-medium. However, we have beans that have a rich mouthfeel and other qualities that seem "dark." If you want a "dark roast" try out the "Meeting Day" blend.
 
