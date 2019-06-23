@@ -1,5 +1,5 @@
 ### About cmd.coffee
-We provide a simple REST API to order high-end, micro roasted coffee. It is in the early stages so expect the API to change and please forgive us for any inconvenience. The roasting side of the business has been around since 2010, so even though the API is a little rough around the edges, the coffee quality is consistently exceptional. 
+We provide a simple REST API to order high-end, micro roasted coffee. It is in the early stages so expect the API to change and please forgive us for any inconvenience. We've been roasting commercially since 2010, so even though the API is a little rough around the edges, the coffee quality is consistently exceptional. 
 
 We also have some CLIs in the works. The first one we've released is in crystal. Stay tuned for more
 
