@@ -8,7 +8,9 @@
 > Shipping is included in the price you see in the product listing. There is no sales tax on coffee beans.
 
 2. How long does it take to get my coffee?
-> Most orders will arrive within 3-5 business days.
+> It depends when you order it. We roast our beans on the weekends and ship them out the first business day of the week.
+
+> All coffee is shipping Priority mail and arrives in 1-3 days.
 
 3. How do I get order status and tracking info?
 > Use the order endpoint with your order-key to see status and tracking info.
@@ -48,6 +50,9 @@
 
 6. What is single origin coffee?
 > Essentially, single origin is coffee talk for knowing the region, producer, or crop where your beans originated. So, when we offer you beans of Costa Rica Cumbres del Poas we know that the beans were caringly produced by Dona Francisca and Oscar Chacon, a husband and wife living in the central valley region of Costa Rica. 
+
+7. Who makes your blends?
+> We do! We use the same types of beans we use for single origin coffees. We select a combination of flavor profiles to create a unique and consistent experience for each blend.
 
 7. What is micro-roasting?
 > It means we roast our coffee in very small batches. Currently, each batch is about ten pounds.
