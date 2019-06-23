@@ -9,6 +9,8 @@ In the meantime:
 
 [Order coffee with the crystal app](https://github.com/cmd-coffee/cmd-coffee-crystal)
 
+[Read our Faqs](faqs.md)
+
 ### Workflow
 1. Join
 2. View products
