@@ -1,5 +1,5 @@
 ### Cmd.Coffee Privacy Policy
-#### Last Updated: June 21, 2019
+#### Last Updated: June 29, 2019
 Cmd.Coffee is a service that sells coffee and takes cryptocurrencies as payment for such products (“cmd.coffee” or “we” or “us” or “our”). This Privacy Policy (the “Policy”) helps explain how we collect, use, store, and protect your information when you use our website at https://cmd.coffee, the cmd.coffee service or any cmd.coffee API or third party applications relying on such API, or any other websites, pages, features, or content related to the cmd.coffee service (collectively the “Services”).
 Please read this Policy carefully along with the cmd.coffee Terms of Service (the “Terms”), which describe the terms under which you use the Services. If you have any questions, please contact us at support@cmd.coffee.
 #### Acceptance of Privacy Policy
