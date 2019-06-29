@@ -39,7 +39,6 @@ You may use our Services only for lawful purposes and in accordance with these T
 * Violate any applicable law or regulation; or
 * Encourage or enable any other individual to do any of the foregoing.
 
-
 #### Reliance on Services Information
 The information presented on our Services is made available solely for general information purposes. We do not warrant the accuracy, completeness or usefulness of this information. Any reliance you place on such information is strictly at your own risk. We disclaim all liability and responsibility arising from any reliance placed on such materials by you or any other user, or by anyone who may be informed of any of the Services’ contents.
 
@@ -62,7 +61,9 @@ Cmd.Coffee accepts payment via Cryptocurrency. When you place an order, you will
 When you send payment to an order address you represent that:
 1. The entirety of the order is accurate, including but not limited to, shipping address and product-keys.
 2. You’re solely responsible for sending the correct payment amount to the correct payment address.
-4. You agree to our [Return Policy](return-policy.md).
+3. You agree to our [Return Policy](return-policy.md).
+
+Due to the volatility of cryptocurrency, any refunds will be made in USD based on the USD amount of the original purchase.
 
 #### Changes to the Services
 We may update the content on our Services from time to time, but such content is not necessarily complete or up to date. Any of the material on our Services may be out of date at any given time, and we are under no obligation to update such material.
