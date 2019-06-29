@@ -1,4 +1,6 @@
 ### Cmd.Coffee Terms of Use
+#### Last Updated 6/29/2019
+
 **IMPORTANT: These Terms of Use contain an arbitration clause and class action waiver, which govern how disputes with LilyPad Light Corp (“Cmd.Coffee”) will be resolved. These provisions affect your legal rights, so please read them, and these entire Terms of Use, carefully.**
 
 Cmd.Coffee is a service that sells coffee and takes cryptocurrencies as payment for such products (“cmd.coffee” or “we” or “us” or “our”). We built our website, CLI applications and APIs (collectively, our “Services”) to share information about our company and our coffees; to allow you to purchase our coffees and have them shipped directly to you; to support open-source software development; to create a platform that values privacy.
