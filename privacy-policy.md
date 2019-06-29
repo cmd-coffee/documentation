@@ -49,9 +49,9 @@ We may also share information with law enforcement, government officials, or oth
 * We are compelled to do so by a subpoena, court order, or similar legal procedure; or
 * To investigate violations of our Terms.
 #### How We Use Cookies
-We'd say we don't, but cookies are tricky and manage to show up in unlikely places. We do not currently, nor plan on, using cookies to track you or collect data from you.
+We do not currently, nor plan on, using cookies to track you or collect data from you.
 #### Do-Not-Track
-We do not track our users on our website.
+We do not track our users.
 #### Children
 We do not knowingly request of collect personal information from any person under the age of 13. If a user submitting personal information is suspected of being younger than 13 years of age, Cmd.Coffee will require the user to close his or her account and will not allow continued use of the Services. We will also take steps to delete the information as soon as possible. Please notify us if you know of any individuals under the age of 13 using our Services so we can take action to prevent access to our Services.
 #### California Privacy Rights
