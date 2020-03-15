@@ -5,7 +5,7 @@ We also have some CLIs in the works. The first one we've released is in crystal.
 
 In the meantime:
 
-[Check out the current API](https://api.cmd.coffee/)
+[Check out the current API](https://cmd-coffee-api.azurewebsites.net)
 
 [Order coffee with the crystal app](https://github.com/cmd-coffee/cmd-coffee-crystal)
 
