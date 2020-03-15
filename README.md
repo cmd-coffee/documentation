@@ -7,6 +7,8 @@ In the meantime:
 
 [Check out the current API](https://cmd-coffee-api.azurewebsites.net)
 
+[Order coffee with the dotnet core CLI](https://github.com/cmd-coffee/cmd-coffee-csharp-core)
+
 [Order coffee with the crystal app](https://github.com/cmd-coffee/cmd-coffee-crystal)
 
 [Read our Faqs](faqs.md)
